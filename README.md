@@ -6,7 +6,7 @@ A website that offers social solution services.
 
 ## Built With
 * HTML Semantic elements
-* DRY CSS
+* CSS
 
 ## Demonstration 
 The following image shows the full web page:
@@ -17,5 +17,5 @@ The following image shows the full web page:
 [Heriseon](https://yuri908.github.io/)
 
 ## Contribution
-Made with ❤️ by Horiseon
-Modifications made by YuriR.
+* Made with ❤️ by Horiseon
+* Modifications made by YuriR.
