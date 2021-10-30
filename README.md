@@ -5,11 +5,12 @@
 A website that offers social solution services.
 
 ## Built With
-* HTML
-* CSS
+* HTML Semantic elements
+* DRY CSS
 
 ## Website
-https://yuri908.github.io/YRCodeRefactor/
+[Heriseon](https://yuri908.github.io/)YRCodeRefactor/
 
 ## Contribution
 Made with ❤️ by Horiseon
+Modifications made by YuriR.
