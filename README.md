@@ -8,8 +8,13 @@ A website that offers social solution services.
 * HTML Semantic elements
 * DRY CSS
 
-## Website
-[Heriseon](https://yuri908.github.io/)YRCodeRefactor/
+## Demonstration 
+The following image shows the full web page:
+
+![Demo](./assets/images/01-demo.png)
+
+## Website link
+[Heriseon](https://yuri908.github.io/)
 
 ## Contribution
 Made with ❤️ by Horiseon
