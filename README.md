@@ -18,7 +18,7 @@ The following image shows the full web page:
 
 ## Refactors made:
 
-In order to meet accessibility standards I changed <DIV> elements to semantic elements. Also the structure of HTML follow a logical structure independently from styling and positioning.
+In order to meet accessibility standards I changed the division elements to semantic elements. Also the structure of HTML follow a logical structure independently from styling and positioning.
 
 Image elements now carry an alt attribute.
 
